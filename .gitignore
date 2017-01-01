@@ -6,8 +6,8 @@
 
 *.swp
 .DS_Store
-*~
-*.sublime-*
+#*~
+#*.sublime-* # I want sublime files !
 *.d/localhost
 aptitude/cache
 cmus/autosave

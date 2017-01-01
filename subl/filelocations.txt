@@ -1,0 +1,7 @@
+#Author: 	Jordan Ulmer
+#Date:		2016-12-31
+#Purpose: 	location of default key bindings.
+
+
+cp -avr ~/.config/sublime-text-3/Packages/User/Default\ \(Linux\).sublime-keymap Default\ \(Linux\).sublime-keymap
+

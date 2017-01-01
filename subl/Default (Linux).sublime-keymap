@@ -1,0 +1,11 @@
+//Author: 		Jordan Ulmer
+//Date Created:	2016-12-31
+//Purpose: 		User Sublime Keymaps
+[
+	// Use standard internet browser ctrl+tab
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+	// Allow default functionality that default ctrl+tab provides in sublime.
+	{ "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+	{ "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
+]
